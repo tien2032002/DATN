@@ -1,0 +1,7 @@
+e-book: https://jokane.net/agitr/
+ros-tutorial: https://robodev.blog/tong-quan-ve-series-ros-co-ban
+folder do an: https://drive.google.com/drive/folders/1XVY7B1oJkj5uZWFKsMwFHc_FKz93syAI
+model panda arm: https://app.gazebosim.org/OpenRobotics/fuel/models/Panda%20arm%20-%20Fortress%20merge%20include%20demo?fbclid=IwAR3Xi1uLbB_hHs31fcP7OMMUM3W7idz_7ZDSBXNRVA6WWeEPfHBQGcd60dI
+opencv tutorial: https://docs.opencv.org/4.x/d6/d00/tutorial_py_root.html?fbclid=IwAR2rPEUuY0bYRpHh15LcvHpcCPRBr_MQ88c0t36HuAMsprAnUv4Qr5npVpA
+github dobot: https://github.com/Dobot-Arm/CR_ROS?fbclid=IwAR2QDYopK6oufSCBf84eCNUkMY1m22uUOLGyUn9QVFmPjun9aZrMmklLmwM
+gazebo tutorial: https://classic.gazebosim.org/tutorials?cat=guided_b&tut=guided_b1

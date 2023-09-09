@@ -1,0 +1,7 @@
+https://www.youtube.com/watch?v=mZoWeO0JBNU&t=43s
+Tìm hiểu ROS, Gazebo, OpenCV,  cánh tay robot CR5.
+Tìm hiểu bài toán inverse kinematics, forward kinematics.
+
+***create node:
+
+-create package: catkin_create_pkg [pkg_name] rospy turtlesim
